@@ -1,6 +1,12 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+
 ## Hi, Im Martin Baudino 👋
 
-Contacto:
+## Contacto:
+<i class="ci ci-spotify ci-2x"></i><img src="public/icons/instagram/instagram.svg" alt="Instagram Icon"  height="48"> 
 
 <!--
 **martinbaudin/martinbaudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
